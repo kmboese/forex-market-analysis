@@ -1,0 +1,15 @@
+#Data files
+/data/generator-data
+/data/processed-data
+/data/raw-data
+/data/sample-data
+/data/key-year-data
+/data/dat-files
+/src/stats-data-all
+/transCSSR/transCSSR_results
+/transCSSR/Results
+
+#File Types
+*.bak
+__pycache__
+*.pyc
